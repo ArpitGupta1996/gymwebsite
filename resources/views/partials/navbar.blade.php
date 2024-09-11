@@ -1,5 +1,5 @@
-<div class="container-fluid pl-0 pr-0 bg-img clearfix parallax-window2" data-parallax="scroll"
-    data-image-src="{{ asset('images/banner2.jpg') }}">
+{{-- <div class="container-fluid pl-0 pr-0 bg-img clearfix parallax-window2" data-parallax="scroll"
+    data-image-src="{{ asset('images/banner2.jpg') }}"> --}}
     <nav class="navbar navbar-expand-md navbar-dark">
         <div class="container">
             <!-- Brand -->
@@ -24,4 +24,4 @@
             </div>
         </div>
     </nav>
-</div>
+{{-- </div> --}}
